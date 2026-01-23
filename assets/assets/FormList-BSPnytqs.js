@@ -1,0 +1,1 @@
+import{a0 as s}from"./index-CdvnMJDF.js";const n=async(t,o,a,e)=>{try{return await s({url:`form_dashboard?department_id=${t}&team_id=${o}&year=${a} &staff_id=${e}`,method:"get"})}catch(r){throw console.error("Error fetching information data:",r),r}};export{n as g};
