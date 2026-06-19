@@ -1,0 +1,1 @@
+import{a6 as t}from"./index-D6HMGS4x.js";async function s(o){try{const e=(await t({url:`/department/formpreview?year=${o}`,method:"get"})).data;return console.log(e),e}catch(r){throw console.error("Error making API request:",r),r}}export{s as F};

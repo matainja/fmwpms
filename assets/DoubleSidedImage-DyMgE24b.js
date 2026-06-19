@@ -1,0 +1,1 @@
+import{u as a,j as c,ai as i}from"./index-D6HMGS4x.js";const{MODE_DARK:n}=i,u=({src:e,darkModeSrc:s,alt:o="",...t})=>{const m=a(r=>r.theme.mode);return c.jsx("img",{src:m===n?s:e,alt:o,...t})};export{u as D};
